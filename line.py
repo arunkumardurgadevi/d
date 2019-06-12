@@ -1,2 +1,2 @@
-word=input()
-print(word.count("."))
+words=input()
+print(words.count("."))
