@@ -1,4 +1,4 @@
-num=int(input())
-ele=list(map(int,input().split()))
-ele.sort()
-print(*ele)
+numb=int(input())
+elem=list(map(int,input().split()))
+elem.sort()
+print(*elem)
